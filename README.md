@@ -15,7 +15,8 @@
 - 🌐 **Habilidades Front-end:** Domino la maquetación y la interacción con el usuario mediante **HTML, CSS (Flexbox/Grid) y JavaScript**.
 - 🔗 Mi portfolio de Ciberseguridad: [mariaromeroruiz.github.io/portfolio-mariaromeroruiz/](https://mariaromeroruiz.github.io/portfolio-mariaromeroruiz/)
 - 🚧 **¡Mi nuevo Portfolio de Programación (DAW) está en desarrollo y se publicará pronto!**
-- 💼 Estoy abierta a oportunidades de **prácticas, becas o primer empleo** en desarrollo web. Mi CV está disponible [aquí](mariaromeroruiz.github.io/cv). 
+- 💼 Estoy abierta a oportunidades de **prácticas, becas o primer empleo** en desarrollo web. Mi CV está disponible aquí: https://raw.githubusercontent.com/Mariaromeroruiz/Mariaromeroruiz/main/CV_MariaVictoriaRomero.pdf
+
 
 <br><br>
 
