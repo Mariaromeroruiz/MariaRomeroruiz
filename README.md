@@ -1,20 +1,21 @@
 <h1 align="center"><b>¡Hola! Soy María Victoria Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=¡Bienvenid@+a+mi+espacio+de+código!;Desarrolladora+Web+Full+Stack+en+formación+%7C+DAW;HTML+•+CSS+•+JavaScript+•+Python;Apasionada+por+crear+soluciones+digitales+seguras+y+eficientes+%F0%9F%92%BB"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=950&height=100&lines=¡Bienvenid@+a+mi+espacio+de+código!;Desarrolladora+Web+Full+Stack+en+formación+%7C+DAW;HTML+•+CSS+•+JavaScript+•+Python;Apasionada+por+crear+soluciones+digitales+seguras+y+eficientes+%F0%9F%92%BB"></a>
 </p>
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de Mí**
+## 💡**Acerca de Mí**
 
 <br>
 
 - 👩‍💻 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con enfoque en la metodología Full-Stack.
-- 💡 Combino mi formación en DAW con un *background* en **Ciberseguridad**, enfocándome en soluciones digitales robustas y seguras.
-- 📚 Actualmente, en inmersión total en **HTML, CSS, JavaScript (Front-End)** y la **Programación Orientada a Objetos (POO) con Java**.
+- 🔗 Combino mi formación en DAW con un *background* en **Ciberseguridad**, enfocándome en soluciones digitales robustas y seguras.
+- ⚙️ **Enfocada en Back-end:** Mi principal aprendizaje se centra en la **Programación Orientada a Objetos (POO) con Java** y desarrollo de lógica con **Python**, incluyendo el manejo de bases de datos **SQL/MySQL**.
+- 🌐 **Habilidades Front-end:** Domino la maquetación y la interacción con el usuario mediante **HTML, CSS (Flexbox/Grid) y JavaScript**.
 - 🔗 Mi portfolio de Ciberseguridad: [mariaromeroruiz.github.io/portfolio-mariaromeroruiz/](https://mariaromeroruiz.github.io/portfolio-mariaromeroruiz/)
 - 🚧 **¡Mi nuevo Portfolio de Programación (DAW) está en desarrollo y se publicará pronto!**
-- 💼 Estoy abierta a oportunidades de **prácticas, becas o primer empleo** en desarrollo web. Mi CV está disponible [aquí](mariaromeroruiz.github.io/cv). *(Reemplaza este enlace con la URL de tu CV)*
+- 💼 Estoy abierta a oportunidades de **prácticas, becas o primer empleo** en desarrollo web. Mi CV está disponible [aquí](mariaromeroruiz.github.io/cv). 
 
 <br><br>
 
@@ -132,6 +133,5 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid) (Base del estilo)
 
-Última Edición: (Añade aquí la fecha actual)
+Última Edición: (29/10/2025)
