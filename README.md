@@ -1,6 +1,6 @@
 <h1 align="center"><b>¡Hola! Soy María Victoria Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡Bienvenid@+a+mi+espacio+de+código!;Desarrolladora+Web+Full+Stack+en+formación+%7C+DAW;HTML+•+CSS+•+JavaScript+•+Python;Apasionada+por+crear+soluciones+digitales+seguras+y+eficientes+%F0%9F%92%BB"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=800&height=100&lines=¡Bienvenid@+a+mi+espacio+de+código!;Desarrolladora+Web+Full+Stack+en+formación+%7C+DAW;HTML+•+CSS+•+JavaScript+•+Python;Apasionada+por+crear+soluciones+digitales+seguras+y+eficientes+%F0%9F%92%BB"></a>
 </p>
 
 <br>
