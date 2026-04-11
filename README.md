@@ -1,22 +1,32 @@
 <h1 align="center"><b>¡Hola! Soy María Victoria Romero </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=950&height=100&lines=¡Bienvenid@+a+mi+espacio+de+código!;Desarrolladora+Web+Full+Stack+en+formación+%7C+DAW;HTML+•+CSS+•+JavaScript+•+Python;Apasionada+por+crear+soluciones+digitales+seguras+y+eficientes+%F0%9F%92%BB"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?
 </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=950&height=120&lines=¡Bienvenid@+a+mi+espacio+de+desarrollo!;Full-Stack+SAP+Developer+%7C+BTP+%26+ABAP+Cloud+Specialist;DAW+Student+•+JavaScript+•+SAP+HANA+•+Clean+Core;Creando+soluciones+digitales+eficientes+y+escalables+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<br>
 
 <br>
 
-## 💡**Acerca de Mí**
+### 👩‍💻 Sobre mí (About Me)
 
-<br>
+¡Hola! Soy una desarrolladora **Full-Stack SAP** en formación, combinando mis cimientos en **Desarrollo de Aplicaciones Web (DAW)** con la innovación de **SAP Business Technology Platform (BTP)** y **ABAP Cloud**.
 
-- 👩‍💻 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** con enfoque en la metodología Full-Stack.
-- 🔗 Combino mi formación en DAW con un *background* en **Ciberseguridad**, enfocándome en soluciones digitales robustas y seguras.
-- ⚙️ **Enfocada en Back-end:** Mi principal aprendizaje se centra en la **Programación Orientada a Objetos (POO) con Java** y desarrollo de lógica con **Python**, incluyendo el manejo de bases de datos **SQL/MySQL**.
-- 🌐 **Habilidades Front-end:** Domino la maquetación y la interacción con el usuario mediante **HTML, CSS (Flexbox/Grid) y JavaScript**.
-- 🔗 Mi portfolio de Ciberseguridad: [mariaromeroruiz.github.io/portfolio-mariaromeroruiz/](https://mariaromeroruiz.github.io/portfolio-mariaromeroruiz/)
-- 🚧 **¡Mi nuevo Portfolio de Programación (DAW) está en desarrollo y se publicará pronto!**
-- 💼 Estoy abierta a oportunidades de **prácticas, becas o primer empleo** en desarrollo web. Mi CV está disponible aquí: https://raw.githubusercontent.com/Mariaromeroruiz/Mariaromeroruiz/main/CV_MariaVictoriaRomero.pdf
+Mi misión es ayudar a las empresas a evolucionar hacia la **Empresa Inteligente** mediante:
 
+* **Estrategia Clean Core:** Desarrollando extensiones **Side-by-Side** en BTP para mantener el núcleo de S/4HANA intacto y actualizable.
+* **Innovación con IA:** Implementando soluciones de **SAP Business AI** para la automatización de procesos (como la extracción de datos en facturas).
+* **Arquitectura de Datos:** Aprovisionamiento y modelado en **SAP HANA Cloud**.
+* **Conectividad Segura:** Integración de sistemas mediante **Destinations**, **APIs** y **Cloud Connector**.
+
+---
+
+### 🚀 Mi "Roadmap" Actual:
+* **BTP Foundations:** Dominando la jerarquía de cuentas, entornos Cloud Foundry y seguridad (Role Collections).
+* **ABAP Cloud:** Iniciando mi especialización en el lenguaje core de SAP bajo estándares modernos de nube.
+* **Certificación:** Preparándome para obtener las certificaciones oficiales.
+
+
+<br><br>
 
 <br><br>
 
@@ -27,68 +37,44 @@
 
 <p align="center">
 
-- **Lenguajes Principales**:
-    
-    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- **Ecosistema SAP (Especialización)**:
+    
+    ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+    ![ABAP Cloud](https://img.shields.io/badge/ABAP%20Cloud-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+    ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+    ![SAP Build](https://img.shields.io/badge/SAP%20Build-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+    ![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-008FD3?style=for-the-badge&logo=sap&logoColor=white)
 
-<br>   
-    
+<br>
+
+- **Desarrollo Web & Backend (DAW)**:
+    
+    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>    
+    
 - **Bases de Datos**:
 
-    ![MySQL](https://img.shields.io/badge/MySQL-005C8F?style=for-the-badge&logo=mysql&logoColor=white)
-    ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-    
+    ![SAP HANA Cloud](https://img.shields.io/badge/HANA%20Cloud-008FD3?style=for-the-badge&logo=sap&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/MySQL-005C8F?style=for-the-badge&logo=mysql&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    
 <br>
 
-- **Plataformas & Entornos**:
+- **Herramientas & IDEs**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br>
-
-- **Herramientas y IDEs**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </p>
 
-<br>
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
------
-
-<br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Mariaromeroruiz/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mariaromeroruiz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariaromeroruiz&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Mariaromeroruiz"/>
-
-</a>
-</div>
-
-<br>
-<br>
-<br>
-
------
-
-<br>
 <br>
 
 ## <b> Conectemos..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
