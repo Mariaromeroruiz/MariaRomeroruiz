@@ -25,10 +25,18 @@ Mi misión es ayudar a las empresas a evolucionar hacia la **Empresa Inteligente
 * **ABAP Cloud:** Iniciando mi especialización en el lenguaje core de SAP bajo estándares modernos de nube.
 * **Certificación:** Preparándome para obtener las certificaciones oficiales.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<br><br>
+### 🎯 Mi Roadmap a Experta SAP (Experis Academy | Abr - Jun 2026)
+<p align="center">
+  <img src="https://img.shields.io/badge/SAP_BTP_Foundations-80%25-008FD3?style=for-the-badge&logo=sap" />
+  <img src="https://img.shields.io/badge/ABAP_Cloud-Próximamente-lightgrey?style=for-the-badge&logo=sap" />
+  <img src="https://img.shields.io/badge/Certificación_Oficial-Junio_2026-orange?style=for-the-badge&logo=sap" />
+</p>
 
-<br><br>
+> **"En plena inmersión técnica para dominar el ecosistema SAP, priorizando la agilidad de BTP y la potencia de ABAP Cloud bajo la filosofía Clean Core."**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -102,8 +110,6 @@ Mi misión es ayudar a las empresas a evolucionar hacia la **Empresa Inteligente
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
 <br>
 
 <div align='center'>
